@@ -1,0 +1,1 @@
+declare module 'mfeApp1/UsersModule';
